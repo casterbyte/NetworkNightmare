@@ -5,10 +5,10 @@ It is a mindmap for conducting network attacks. For the most part, it will be us
 The mindmap will be maintained and updated by me.
 
 ## Chapters
-Traffic Hijacking
-MiTM Attacks
-Dynamic IGP Routing
-Configuration Exfiltration
+1. Traffic Hijacking
+2. MiTM Attacks
+3. Dynamic IGP Routing
+4. Configuration Exfiltration
 DoS
 NAC/802.1X Bypassing
 GRE Pivoting
