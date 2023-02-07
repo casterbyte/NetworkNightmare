@@ -4,6 +4,10 @@
 It is a mindmap for conducting network attacks. For the most part, it will be useful to pentesters or red team operators.
 The mindmap will be maintained and updated by me.
 
+## Cover
+![](Mindmap_Cover.png)
+
+
 ## Chapters
 1. Traffic Hijacking
 2. MiTM Attacks
