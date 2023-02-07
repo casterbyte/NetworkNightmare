@@ -9,11 +9,11 @@ The mindmap will be maintained and updated by me.
 2. MiTM Attacks
 3. Dynamic IGP Routing
 4. Configuration Exfiltration
-DoS
-NAC/802.1X Bypassing
-GRE Pivoting
-Cisco EEM for hiding user
-Authentication Cracking
-Information Gathering
-Cisco Passwords
-VLAN Bypassing
+5. DoS
+6. NAC/802.1X Bypassing
+7. GRE Pivoting
+8. Cisco EEM for hiding user
+9. Authentication Cracking
+10. Information Gathering
+11. Cisco Passwords
+12. VLAN Bypassing
