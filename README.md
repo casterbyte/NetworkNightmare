@@ -6,7 +6,7 @@ The mindmap will be maintained and updated by me.
 
 # Disclaimer
 
-**All information contained in this repository is provided for educational and research purposes only. The author is not responsible for any illegal use of this tool**
+**All information contained in this repository is provided for educational and research purposes only. The author is not responsible for any illegal use of this mindmap**
 
 ## Cover
 ![](Mindmap_Cover.png)
