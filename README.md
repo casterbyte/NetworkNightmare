@@ -4,6 +4,10 @@
 It is a mindmap for conducting network attacks. For the most part, it will be useful to pentesters or red team operators.
 The mindmap will be maintained and updated by me.
 
+# Disclaimer
+
+**All information contained in this repository is provided for educational and research purposes only. The author is not responsible for any illegal use of this tool**
+
 ## Cover
 ![](Mindmap_Cover.png)
 
